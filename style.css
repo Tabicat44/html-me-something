@@ -1,0 +1,41 @@
+body{
+    background-color: #c2e8f5;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Georgia;
+}
+
+h1{
+
+    font-weight: bold;
+    padding-top: 100px;
+    width: 100%;
+    font-family: cursive;
+}
+
+h2{
+    font-weight: bold;
+}
+
+p{
+    color: #693483;
+    font-weight: bold;
+    margin: 50;
+    padding-left: 150;
+    padding-right: 150;
+}
+
+.DatListDoe{
+    text-align: left;
+    padding-left: 600;
+    color: #693483;
+    font-weight: bold;
+}
+
+#image{
+    background-image: url(https://scontent-sjc3-1.cdninstagram.com/vp/0dbda8a8480182ebdd203092384aeddc/5E2F8606/t51.2885-15/e35/19932724_1954390561504913_6020865535569297408_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105);
+    background-size: 4000px 4000px;
+    color: #693483
+
+}
